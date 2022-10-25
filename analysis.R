@@ -2,7 +2,7 @@
 #
 # A2: Assignment 2 (A2)
 #    INFO-201 (Autumn 2022)
-#    dhendry@uw.edu
+#    karmas@uw.edu
 
 # Practice set info ---- 
 practice.begin("A2", learner="[Kaia Armas]", email="[karmas@uw.edu]")
