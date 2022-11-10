@@ -85,19 +85,46 @@ In the second chapter of *Data Feminism*, Klein and D'Ignazio describe 4 ways th
 
 ### Critical Analysis & Reflection: Before You Code (questions above)
 
-* **(R1a)** ... (about 25-50 words)
-* **(R1b)** ... (about 25-50 words)
-* **(R1c)** ... (about 25-50 words)
-* **(R1d)** ... (about 25-50 words)
-* **(R1e)** ... (about 25-50 words)
-* **(R1f)** ... (about 25-50 words)
-* **(R1g)** ... (bullet points fine; about 50 words)
-* **(R1h)** ... (bullet points fine; about 50 words)
+* **(R1a)** 
+* Count Love is trying to show protests around the United States in an interactive way so that
+it is easier for people to see. They hope to bring more people to the site so that people
+are interested in looking at protests can view them all at once. There are two people working
+on the project. Their names are Tommy Leung and Nathan Perkins who are both engineers and scientists. 
+
+* **(R1b)** 
+The values that are informing the design of Count Love are coming from
+credible news sources. The values come from interpretations from the the many articles and things
+ they had to go through. 
+ 
+* **(R1c)
+* The data comes from news acticles for example like the New York Times. The information
+is credible. The developers count protests that were public and not part of private organizations.
+the data comes from events in the United States from 01-20-2017 all the way to 12/31/21. 
+
+
+* **(R1d)** People who study protests or do research related to their topics can use their data. 
+In order to use these skills people need to have great researching skills as well as having
+knowledge in computers. Journalists and people who write newspapers could use this information
+as well.
+* **(R1e)** 
+* People who study protests or do research related to their topics can use their data. 
+In order to use these skills people need to have great researching skills as well as having
+knowledge in computers. Journalists and people who write newspapers could use this information
+as well.
+* **(R1f)** 
+* One benefits of Count Love is that there is is so much information it could be hard for a
+person to take in all the information at once. All the information could change since things 
+change over time, Nothing on the internet stayas the same
+* **(R1g)** People impacted by Count Love could be people who don't are truly against having comparisons
+ on the internet including those of color and different racial groups. 
+* **(R1h)**  Some benefits of Count Love is that there is is so much information it could be hard for a
+person to take in all the information at once. All the information could change since things 
+change over time, Nothing on the internet stayas the same(bullet points fine; about 50 words)
 
 ### Part 3: Locations (`analysis.R`)
-* **(R3a)** ... (about 25-50 words)
-* **(R3b)** ... (about 25-50 words)
-* **(R3c)** ... (about 25-50 words)
+* **(R3a)** Something that surprised me about about the protests in Washington is that there are 1375 protests in WA. I'mm not surpised with how many protests there are. 
+* **(R3b)**  When I applied the Sapply() function it made it quite simple and was easier to do all at once. I was shocked how simple it was to use.
+* **(R3c)** Looking at at the State Table, I saw some errors with the States. Some of the names were all, lowercase and it was really weird to look at. There were also weird duplicates of them which made it even stranger.  (about 25-50 words)
 
 ### Critical Analysis & Reflection: After You Code (questions above)
 * **(R7h)** ... (100 words or more)
